@@ -1,2 +1,2 @@
 # git-demo
-demo of git and github
+Hello all Welcome to git and github session.
